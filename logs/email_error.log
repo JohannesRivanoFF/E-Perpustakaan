@@ -1,0 +1,20 @@
+2026-06-17 14:23:09 - Attempting to send email to: email_tujuan@gmail.com, subject: Tes Token Pembayaran E-Perpustakaan
+2026-06-17 14:23:09 - SMTP config: host=smtp.gmail.com, port=587, username=vano16022004@gmail.com, encryption=tls, timeout=8
+2026-06-17 14:23:09 - Connecting to smtp.gmail.com:587
+2026-06-17 14:23:13 - Attempting to send email to: email_tujuan@gmail.com, subject: Tes Token Pembayaran E-Perpustakaan
+2026-06-17 14:23:13 - SMTP config: host=smtp.gmail.com, port=587, username=vano16022004@gmail.com, encryption=tls, timeout=8
+2026-06-17 14:23:13 - Connecting to smtp.gmail.com:587
+2026-06-17 14:23:14 - Email sent successfully to email_tujuan@gmail.com
+2026-06-17 14:23:17 - Email sent successfully to email_tujuan@gmail.com
+2026-06-17 14:23:52 - Attempting to send email to: email_tujuan@gmail.com, subject: Tes Token Pembayaran E-Perpustakaan
+2026-06-17 14:23:52 - SMTP config: host=smtp.gmail.com, port=587, username=vano16022004@gmail.com, encryption=tls, timeout=8
+2026-06-17 14:23:52 - Connecting to smtp.gmail.com:587
+2026-06-17 14:23:56 - Email sent successfully to email_tujuan@gmail.com
+2026-06-17 14:24:16 - Attempting to send email to: jrff18c@gmail.com, subject: Token Pembayaran Peminjaman Tervalidasi
+2026-06-17 14:24:16 - SMTP config: host=smtp.gmail.com, port=587, username=vano16022004@gmail.com, encryption=tls, timeout=8
+2026-06-17 14:24:16 - Connecting to smtp.gmail.com:587
+2026-06-17 14:24:20 - Email sent successfully to jrff18c@gmail.com
+2026-07-02 13:37:00 - Attempting to send email to: pemohon23@email.com, subject: Token Pembayaran Peminjaman Tervalidasi
+2026-07-02 13:37:00 - SMTP config: host=smtp.gmail.com, port=587, username=vano16022004@gmail.com, encryption=tls, timeout=8
+2026-07-02 13:37:00 - Connecting to smtp.gmail.com:587
+2026-07-02 13:37:05 - Email sent successfully to pemohon23@email.com
